@@ -1,1 +1,2 @@
 Hello brother!
+Are you enjoying git?
